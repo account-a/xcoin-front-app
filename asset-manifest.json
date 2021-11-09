@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/xcoin-front-app/static/css/main.01f71191.chunk.css",
+    "main.js": "/xcoin-front-app/static/js/main.a5bda577.chunk.js",
+    "main.js.map": "/xcoin-front-app/static/js/main.a5bda577.chunk.js.map",
+    "runtime-main.js": "/xcoin-front-app/static/js/runtime-main.40a5b7f3.js",
+    "runtime-main.js.map": "/xcoin-front-app/static/js/runtime-main.40a5b7f3.js.map",
+    "static/js/2.be6adc09.chunk.js": "/xcoin-front-app/static/js/2.be6adc09.chunk.js",
+    "static/js/2.be6adc09.chunk.js.map": "/xcoin-front-app/static/js/2.be6adc09.chunk.js.map",
+    "static/js/3.64ba5321.chunk.js": "/xcoin-front-app/static/js/3.64ba5321.chunk.js",
+    "static/js/3.64ba5321.chunk.js.map": "/xcoin-front-app/static/js/3.64ba5321.chunk.js.map",
+    "index.html": "/xcoin-front-app/index.html",
+    "static/css/main.01f71191.chunk.css.map": "/xcoin-front-app/static/css/main.01f71191.chunk.css.map",
+    "static/js/2.be6adc09.chunk.js.LICENSE.txt": "/xcoin-front-app/static/js/2.be6adc09.chunk.js.LICENSE.txt",
+    "static/media/arrowBack.4ce02189.svg": "/xcoin-front-app/static/media/arrowBack.4ce02189.svg",
+    "static/media/arrowsSwap.774ab0af.svg": "/xcoin-front-app/static/media/arrowsSwap.774ab0af.svg",
+    "static/media/downArrow.7ccb9ffd.svg": "/xcoin-front-app/static/media/downArrow.7ccb9ffd.svg",
+    "static/media/FormUI.module.scss": "/xcoin-front-app/static/media/iphone-mainframe.c2f99f3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a5b7f3.js",
+    "static/js/2.be6adc09.chunk.js",
+    "static/css/main.01f71191.chunk.css",
+    "static/js/main.a5bda577.chunk.js"
+  ]
+}
