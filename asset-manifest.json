@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xcoin-front-app/static/css/main.01f71191.chunk.css",
-    "main.js": "/xcoin-front-app/static/js/main.a5bda577.chunk.js",
-    "main.js.map": "/xcoin-front-app/static/js/main.a5bda577.chunk.js.map",
+    "main.js": "/xcoin-front-app/static/js/main.10685131.chunk.js",
+    "main.js.map": "/xcoin-front-app/static/js/main.10685131.chunk.js.map",
     "runtime-main.js": "/xcoin-front-app/static/js/runtime-main.40a5b7f3.js",
     "runtime-main.js.map": "/xcoin-front-app/static/js/runtime-main.40a5b7f3.js.map",
     "static/js/2.be6adc09.chunk.js": "/xcoin-front-app/static/js/2.be6adc09.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.40a5b7f3.js",
     "static/js/2.be6adc09.chunk.js",
     "static/css/main.01f71191.chunk.css",
-    "static/js/main.a5bda577.chunk.js"
+    "static/js/main.10685131.chunk.js"
   ]
 }
