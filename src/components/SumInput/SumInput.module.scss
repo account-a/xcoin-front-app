@@ -1,0 +1,19 @@
+.input {
+  margin-left: 16px;
+  margin-top: 16px;
+  background: transparent;
+  border: none;
+  width: 200px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 28px;
+  color: #000000;
+
+  &::placeholder {
+    opacity: 0.3;
+  }
+}
+
+.disabled {
+  cursor: none;
+}

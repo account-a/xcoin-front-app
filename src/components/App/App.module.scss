@@ -1,0 +1,21 @@
+$bp1: 325px;
+$bp2: 1024px;
+$bp3: 1376px;
+
+.title {
+  color: #6060F0;
+  text-align: center;
+  margin: 38px 0;
+
+  @media (min-width: $bp1) {
+    font-size: 16px;
+  }
+
+  @media (min-width: $bp2) {
+    font-size: 24px;
+  }
+
+  @media (min-width: $bp3) {
+    font-size: 36px;
+  }
+}

@@ -1,0 +1,105 @@
+$bg0: #ffffff;
+$bg1: #f7f8fc;
+$pad1: 16px;
+
+.container {
+  box-sizing: border-box;
+  width: 398px;
+  height: 786px;
+  margin: auto;
+  background-image: url('./iphone-mainframe.png');
+  padding: 29px 31px 28px 30px;
+  position: relative;
+}
+
+.eyebrow {
+  width: 293px;
+  height: 50px;
+  background-image: url('./eyebrow.png');
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 1;
+}
+
+.bar {
+  width: 134px;
+  height: 5px;
+  background-image: url('./bar.png');
+  position: absolute;
+  bottom: 36px;
+  left: 132px;
+  margin: auto;
+  z-index: 2;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  background-color: $bg1;
+  border-radius: 28px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  font-family: 'SF Pro Text', sans-serif;
+}
+
+.bdLight {
+  background-color: $bg0;
+}
+
+.telTime {
+  font-weight: 600;
+  font-size: 15px;
+  margin-top: 12px;
+  margin-left: 24px;
+}
+
+.lightBlock {
+  margin-top: 36px;
+  height: 74%;
+  background-color: $bg0;
+  border-top-left-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.swapButton {
+  border-radius: 50%;
+  background-color: $bg1;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  top: -21px;
+  right: $pad1;
+
+  .arrowsSwap {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 16px;
+}
+
+.rateError {
+  color: #F05050;
+  text-align: center;
+  font-size: 13px;
+  line-height: 18px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 55px;
+}
