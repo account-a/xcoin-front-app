@@ -86,7 +86,7 @@ const FormUI = (props: Props): JSX.Element => {
               {error.type &&
               <span className={style.rateError}>{`${loc[error.type]} ${error.end}`}</span>
               }
-              <Button label={loc.exchange} onClick={onExchange} disabled={!(Number(firstSum) && Number(secondSum))} />
+              <Button label={loc.exchange} onClick={onExchange} disabled={!(Number(firstSum) && Number(secondSum)) || !!error.type} />
             </div>
           </div>
         </>
